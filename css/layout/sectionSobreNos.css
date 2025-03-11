@@ -1,3 +1,26 @@
 span{
     color: var(--verde-principal--);
 }
+
+.containerSN{
+    display: flex;
+    justify-content: space-evenly;
+    width: 60%;
+    padding: 0 50px;
+    
+}
+
+.waveSN{
+    width: 40%;
+    height: 500px; 
+}
+
+.pSobreNos{
+    display: flex;
+    width: 100%;
+    line-height: 25px;
+}
+
+.imgWaveSN{
+    width: 100%;
+}

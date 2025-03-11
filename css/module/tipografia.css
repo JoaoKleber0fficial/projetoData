@@ -5,8 +5,9 @@
 .inter_h2 {
     font-family: "Inter", sans-serif;
     font-optical-sizing: 36px;
-    font-weight: 400;
+    font-weight: 700;
     font-style: normal;
+    padding: 0 50px;
 }
 
 .inter_h3{

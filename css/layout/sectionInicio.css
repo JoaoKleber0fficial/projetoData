@@ -3,9 +3,9 @@
     align-items: center;
     justify-content: space-between;
     height: 80vh;
-    padding: 0 50px;
     position: relative;
     background-color: var(--background--);
+    padding: 0 50px;
 }
 
 .content {
