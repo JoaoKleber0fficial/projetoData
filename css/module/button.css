@@ -1,0 +1,15 @@
+button {
+    background: var(--gradient-azul--);
+    border: none;
+    padding: 12px 24px;
+    color: var(--cor-branca--);
+    font-weight: bold;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+button:hover {
+    background: var(--gradient-azul--);
+}

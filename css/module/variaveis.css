@@ -1,0 +1,6 @@
+:root{
+    --gradient-azul--: linear-gradient(to right, #99D6CF, #50706C);
+    --gradient-azul-escuro--: linear-gradient(to right, #1B5C7D, #023047);
+    --cor-preta--: black;
+    --cor-branca--: white;
+}

@@ -1,0 +1,36 @@
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80vh;
+    padding: 0 50px;
+    position: relative;
+}
+
+.content {
+    max-width: 50%;
+}
+
+.hero h2 {
+    font-size: 3rem;
+    background: var(--gradient-azul--);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.hero p {
+    max-width: 500px;
+    color: #333;
+}
+
+/* Imagem da onda */
+.wave {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+}
+
+.inicio img {
+    height: 100%;
+}
