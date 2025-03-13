@@ -32,3 +32,8 @@ nav ul li a {
     font-size: 20px;
     margin-inline: 10px;
 }
+
+
+    a:hover {
+        color: #50706C;
+    }

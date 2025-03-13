@@ -1,5 +1,8 @@
+
+
 :root {
     --background--: #fefaf5;
+    box-sizing: border-box;
 }
 
 body {
